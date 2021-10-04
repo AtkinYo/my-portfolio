@@ -35,6 +35,10 @@ export const HeaderLeft = styled.div`
     height: 100%;
     opacity: 0.6;
     background-color: #000;
+
+    @media (min-width: 991px) {
+      display: none;
+    }
   }
 `;
 

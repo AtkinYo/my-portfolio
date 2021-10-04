@@ -2,12 +2,21 @@ import styled from 'styled-components';
 
 export const AboutMeContainer = styled.div`
   width: 100%;
-  height: 90vh;
-  background-color: green;
+  height: 100%;
+  padding: 2rem;
+  background-color: #1e1e1e;
+  color: #fff;
+
+  h2 {
+    text-transform: uppercase;
+  }
+
+  p {
+    line-height: 1.5rem;
+  }
 `;
 
 export const AboutMeText = styled.div`
-  background-color: grey;
   width: 80%;
   height: 100%;
   margin: 0 auto;

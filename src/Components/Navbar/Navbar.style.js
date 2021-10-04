@@ -6,7 +6,7 @@ export const MobileNavbar = styled(Navbar)`
   width: 100%;
   height: 8vh;
   background-color: #000;
-  color: blue;
+  color: #fff;
   display: flex;
   justify-content: flex-end;
   align-items: center;
