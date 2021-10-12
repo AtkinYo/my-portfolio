@@ -1,0 +1,23 @@
+.Swiper {
+  height: 40vh;
+  cursor: grab;
+  display: flex;
+  justify-content: center;
+
+  :active {
+    background-color: blueviolet;
+  }
+
+  .SwiperSlide {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto 0;
+    align-items: center;
+    justify-content: center;
+
+    img {
+      width: auto;
+    }
+  }
+}
