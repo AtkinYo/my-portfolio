@@ -4,6 +4,7 @@ import Project from './Components/ProjectSection/Projects';
 import HeaderSection from './Components/HeroSection/HeroSection';
 import { DesktopNavbar, MobileNavbar } from './Components/Navbar/Navbar.style';
 import Carousel from './Components/Skills/Skills';
+import Footer from './Components/Footer/Footer';
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       <AboutMe />
       <Project />
       <Carousel />
+      <Footer />
     </div>
   );
 }
