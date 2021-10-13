@@ -29,7 +29,7 @@ export const StyledFooterIcons = styled.div`
     transition: 800ms;
 
     :hover {
-      margin-top: 0.5px;
+      margin-top: 0.2px;
     }
   }
 `;
