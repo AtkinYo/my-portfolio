@@ -1,3 +1,5 @@
+import React from 'react';
+
 import './App.css';
 import AboutMe from './Components/AboutMe/AboutMe';
 import Project from './Components/ProjectSection/Projects';
@@ -8,7 +10,6 @@ import Footer from './Components/Footer/Footer';
 import DesktopNavbar from './Components/Navbar/LgNavbar';
 
 function App() {
-
   return (
     <div className="App">
       <MobileNavbar />

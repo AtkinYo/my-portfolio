@@ -49,6 +49,7 @@ export const DesktopNavRight = styled.div`
       display: flex;
       justify-content: space-around;
       width: 10rem;
+      cursor: pointer;
     }
   }
 `;

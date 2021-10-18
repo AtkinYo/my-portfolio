@@ -4,7 +4,7 @@ export default function AboutMe() {
   return (
     <AboutMeContainer>
       <AboutMeText>
-        <h2>About Me</h2>
+        <h2 id="about">About Me</h2>
         <p>
           Greetings! I’m a front-end web developer who loves solving problems to
           create intutive and responsive code that brings the web to life. I’m
