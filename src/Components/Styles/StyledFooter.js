@@ -14,6 +14,12 @@ export const StyledFooterContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
+  .phone_number {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3rem;
+  }
 `;
 
 export const StyledFooterIcons = styled.div`

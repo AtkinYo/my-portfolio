@@ -1,5 +1,6 @@
 import { Container } from '../Container.style';
-import Imac from '../../Images/imac-img.png';
+import Seedlip from '../../Images/seedlip-img.png';
+import SwtDrms from '../../Images/swt-drms-img.png';
 import { StyledProjects, StyledProjectImg } from '../Styles/StyledProjects';
 
 export default function Project() {
@@ -10,14 +11,14 @@ export default function Project() {
       </Container>
 
       <StyledProjectImg>
-        <div className="Project-1 Projects">
-          <h3>Seedlip Landing Page</h3>
-          <img src={Imac} alt="Sweet Dreams" />
-        </div>
-
         <div className="Project-2 Projects">
           <h3>Sweet Dreams Landing Page/Shopping Cart</h3>
-          <img src={Imac} alt="Sweet Dreams" />
+         <a href="https://www.google.com" target="blank"><img src={SwtDrms} alt="Sweet Dreams" /></a>
+        </div>
+        <div className="Project-1 Projects">
+          <h3>Seedlip Landing Page</h3>
+          <a href="/" target="blank"><img src={Seedlip} alt="Seedlip" /></a>
+
         </div>
       </StyledProjectImg>
     </StyledProjects>

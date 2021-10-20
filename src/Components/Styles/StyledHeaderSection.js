@@ -17,6 +17,17 @@ export const HeaderLeft = styled.div`
   flex-direction: column;
   font-size: 1rem;
   justify-content: center;
+  color: #ffffff;
+  font-size: 2rem;
+
+  p,
+  h1,
+  h2,
+  h3 {
+    position: relative;
+    z-index: 2;
+    max-width: 32rem;
+  }
 
   @media (min-width: 991px) {
     p,
