@@ -19,13 +19,15 @@ export default function Footer() {
         </a>
         <StyledFooterIcons>
           <p>
-            <MailOutlined />
+            <a href="mailto:malikyoung@me.com">
+              <MailOutlined />
+            </a>
           </p>
           <p>
-            <LinkedinOutlined />
+            <a href="https://www.linkedin.com/in/malik-young-097694209/"><LinkedinOutlined /></a>
           </p>
           <p>
-            <TwitterOutlined />
+            <a href="https://www.twitter.com/atkinyo"><TwitterOutlined /></a>
           </p>
         </StyledFooterIcons>
       </StyledFooterContainer>
