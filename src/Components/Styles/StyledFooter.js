@@ -37,5 +37,9 @@ export const StyledFooterIcons = styled.div`
     :hover {
       margin-top: 0.2px;
     }
+
+    a {
+      color: #ffffff;
+    }
   }
 `;
