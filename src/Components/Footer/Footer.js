@@ -24,10 +24,10 @@ export default function Footer() {
             </a>
           </p>
           <p>
-            <a href="https://www.linkedin.com/in/malik-young-097694209/"><LinkedinOutlined /></a>
+            <a href="https://www.linkedin.com/in/malik-young-097694209/" target="blank"><LinkedinOutlined /></a>
           </p>
           <p>
-            <a href="https://www.twitter.com/atkinyo"><TwitterOutlined /></a>
+            <a href="https://www.twitter.com/atkinyo" target="blank"><TwitterOutlined /></a>
           </p>
         </StyledFooterIcons>
       </StyledFooterContainer>
