@@ -13,12 +13,15 @@ export default function Project() {
       <StyledProjectImg>
         <div className="Project-2 Projects">
           <h3>Sweet Dreams Landing Page/Shopping Cart</h3>
-         <a href="https://www.google.com" target="blank"><img src={SwtDrms} alt="Sweet Dreams" /></a>
+          <a href="https://keen-easley-6d3730.netlify.app/" target="blank">
+            <img src={SwtDrms} alt="Sweet Dreams" />
+          </a>
         </div>
         <div className="Project-1 Projects">
           <h3>Seedlip Landing Page</h3>
-          <a href="/" target="blank"><img src={Seedlip} alt="Seedlip" /></a>
-
+          <a href="https://kind-dubinsky-4507a1.netlify.app/" target="blank">
+            <img src={Seedlip} alt="Seedlip" />
+          </a>
         </div>
       </StyledProjectImg>
     </StyledProjects>
