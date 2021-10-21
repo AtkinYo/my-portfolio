@@ -7,6 +7,7 @@ import {
   MailOutlined,
   LinkedinOutlined,
   TwitterOutlined,
+  AiOutlineGithub
 } from '@ant-design/icons';
 
 export default function Footer() {
@@ -23,11 +24,17 @@ export default function Footer() {
               <MailOutlined />
             </a>
           </p>
+
           <p>
             <a href="https://www.linkedin.com/in/malik-young-097694209/" target="blank"><LinkedinOutlined /></a>
           </p>
+
           <p>
             <a href="https://www.twitter.com/atkinyo" target="blank"><TwitterOutlined /></a>
+          </p>
+
+          <p>
+            <a href="https://github.com/AtkinYo" target="blank"><AiOutlineGithub /></a>
           </p>
         </StyledFooterIcons>
       </StyledFooterContainer>
