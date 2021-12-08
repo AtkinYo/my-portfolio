@@ -13,10 +13,9 @@ export default function HeaderSection() {
         <Container>
           <h2>Hi, Im</h2>
           <h1>Malik Young</h1>
-          <h3>Front-End Developer</h3>
+          <h3>HTML Email Developer</h3>
           <p>
-            Specializing in responsive web development utilizing modern tech
-            solutions.
+            Specializing in responsive emails utilizing modern tech solutions.
           </p>
           <div className="HeaderOverlay"></div>
         </Container>
@@ -26,10 +25,10 @@ export default function HeaderSection() {
         <Container>
           <h2>Hi, Im</h2>
           <h1>Malik Young</h1>
-          <h3>Front-End Developer</h3>
+          <h3>HTML Email Developer</h3>
           <p>
-            Specializing in responsive web development utilizing modern tech
-            solutions.
+            Specializing in responsive emails and web development utilizing
+            modern tech solutions.
           </p>
         </Container>
       </HeaderRight>

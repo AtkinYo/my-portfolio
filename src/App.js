@@ -15,8 +15,8 @@ function App() {
       <MobileNavbar />
       <DesktopNavbar />
       <HeaderSection />
-      <AboutMe />
       <Project />
+      <AboutMe />
       <Carousel />
       <Footer />
     </div>

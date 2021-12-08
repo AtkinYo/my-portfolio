@@ -16,13 +16,11 @@ export default function AboutMe() {
         <p>
           Through my time at South Mountain Community College, I learned the
           basics of the web, such as HTML essentials, the box model, CSS
-          Flexbox, CSS Grid, and building responsive mobile-first code. I then
-          jumped to Javascript where I have familiarized myself with ES5/ES6
-          standards, utilizing Async/Await to integrate API’s, DOM manipulation,
-          state management, installing NPM packages, and much more, like version
-          control software Git and Javascript libarary jQuery. I’m now
-          familiarizing myself with React (which I built this portfolio with),
-          and server-side engineering to improve my knowledge as a developer.
+          Flexbox, CSS Grid, and building responsive mobile-first code. I've
+          then jumped to Javascript where I have familiarized myself with
+          ES5/ES6 standards, utilizing Async/Await to integrate API’s, DOM
+          manipulation, MJML for responsive emails, Litmus for cross-platform
+          testing, Git and Javascript library jQuery.
         </p>
 
         <p>
