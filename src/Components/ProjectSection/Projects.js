@@ -1,5 +1,5 @@
 import { Container } from '../Container.style';
-import Seedlip from '../../Images/seedlip-img.png';
+import Moment from '../../Images/moment.png';
 import SwtDrms from '../../Images/swt-drms-img.png';
 import Chipotle from '../../Images/chip-email.png';
 import Promo from '../../Images/snk-email.png';
@@ -32,15 +32,18 @@ export default function Project() {
 
       <StyledProjectImg>
         <div className="Project-2 Projects">
-          <h3>Sweet Dreams Landing Page/Shopping Cart</h3>
-          <a href="https://keen-easley-6d3730.netlify.app/" target="blank">
-            <img src={SwtDrms} alt="Sweet Dreams" />
+          <h3>Seedlip Landing Page</h3>
+          <a
+            href="https://gracious-engelbart-7195b9.netlify.app/"
+            target="blank"
+          >
+            <img src={Moment} alt="Moment Newsletter" />
           </a>
         </div>
         <div className="Project-1 Projects">
-          <h3>Seedlip Landing Page</h3>
-          <a href="https://kind-dubinsky-4507a1.netlify.app/" target="blank">
-            <img src={Seedlip} alt="Seedlip" />
+          <h3>Sweet Dreams Landing Page/Shopping Cart</h3>
+          <a href="https://keen-easley-6d3730.netlify.app/" target="blank">
+            <img src={SwtDrms} alt="Sweet Dreams" />
           </a>
         </div>
       </StyledProjectImg>
