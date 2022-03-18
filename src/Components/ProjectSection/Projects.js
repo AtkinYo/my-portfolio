@@ -32,7 +32,7 @@ export default function Project() {
 
       <StyledProjectImg>
         <div className="Project-2 Projects">
-          <h3>Seedlip Landing Page</h3>
+          <h3>Moment Newsletter</h3>
           <a
             href="https://gracious-engelbart-7195b9.netlify.app/"
             target="blank"
